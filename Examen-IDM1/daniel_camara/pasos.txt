@@ -8,4 +8,6 @@
 
 5º Ejecutamos "touch ed.txt" para crear el fichero sobre lo que más gusta y disgusta dela asignatura Entornos de Desarrollo y lo modificamos con el editor de textos, en este caso VIM.
 
-6º 
+6º Ejecutamos "git commit -am'Mensaje del commit'" para que Git reconozca todos los cambios que hemos realizado. 
+
+7º 
