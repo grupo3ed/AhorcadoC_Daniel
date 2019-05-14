@@ -10,4 +10,4 @@
 
 6º Ejecutamos "git commit -am'Mensaje del commit'" para que Git reconozca todos los cambios que hemos realizado. 
 
-7º 
+7º Por último se ejecuta "git push" añadiendo la url de nuestro fork e iniciandouna nueva pull request. 
