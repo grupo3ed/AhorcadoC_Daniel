@@ -1,7 +1,0 @@
-1º Para descargar el repositorio Github en local hace falta introducir en la consola de Git el comando "git clone" y añadir la url de ese repositorio.
-
-2º Ejecutamos "git add Examen-IDM1/*" para ponerlo en situación de "staged" y que Git lo reconozca. 
-
-3º Ejecutamos "touch ed.txt" para crear el fichero sobre lo que más gusta y disgusta dela asignatura Entornos de Desarrollo y lo modificamos con el editor de textos, en este caso VIM.
-
-4º 

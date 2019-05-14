@@ -1,7 +1,9 @@
-1º Para descargar el repositorio Github en local hace falta introducir en la consola de Git el comando "git clone" y añadir la url de ese repositorio.
+1º Creamos un fork a nuestro repositorio Github del repositorio Github en el quequeremos contribuir.
 
-2º Ejecutamos "git add Examen-IDM1/*" para ponerlo en situación de "staged" y que Git lo reconozca. 
+2º Para descargar el repositorio Github en local hace falta introducir en la consola de Git el comando "git clone" y añadir la url de ese repositorio.
 
-3º Ejecutamos "touch ed.txt" para crear el fichero sobre lo que más gusta y disgusta dela asignatura Entornos de Desarrollo y lo modificamos con el editor de textos, en este caso VIM.
+3º Ejecutamos "git add Examen-IDM1/*" para ponerlo en situación de "staged" y que Git lo reconozca. 
 
-4º 
+4º Ejecutamos "touch ed.txt" para crear el fichero sobre lo que más gusta y disgusta dela asignatura Entornos de Desarrollo y lo modificamos con el editor de textos, en este caso VIM.
+
+5º 

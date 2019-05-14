@@ -1,3 +1,0 @@
-Entornos de desarrollo es una buena asignatura dentro de este Grado Superior. Teenseña partes importantes, a las que paradójicamente no se suele conceder especial importancia, del mundo de la programación como suelen ser la documentación o el estudio del funcionamiento los propios IDEs que ayudan en la labor de codificación. 
-
-No tengo ninguna queja acerca de la asignatura salvo el tiempo, que no permite, como en otros módulos, que se desarrolle en más profundidad.
